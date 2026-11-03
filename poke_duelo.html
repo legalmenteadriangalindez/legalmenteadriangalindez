@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>⚔️ Poké-Duelo</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: linear-gradient(135deg, #1e3a8a, #3b82f6, #facc15);
+      color: #fff;
+      text-align: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 { font-size: 2.2rem; margin-bottom: .5rem; }
+    .arena {
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+      margin: 1.5rem 0;
+      flex-wrap: wrap;
+    }
+    .lado { background: rgba(0,0,0,.25); padding: 1rem 1.5rem; border-radius: 1rem; }
+    .lado img { width: 140px; height: 140px; image-rendering: pixelated; }
+    button {
+      background: #fff;
+      border: none;
+      border-radius: 1rem;
+      padding: .8rem 1rem;
+      margin: .3rem;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: transform .15s;
+    }
+    button:hover { transform: scale(1.08); }
+    button img { width: 70px; display: block; margin: 0 auto; }
+    #resultado { font-size: 1.2rem; margin-top: 1rem; min-height: 2rem; }
+    #marcador { font-weight: bold; margin-top: .5rem; }
+    .reiniciar { background: #ef4444; color: #fff; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>⚔️ Poké-Duelo ⚔️</h1>
+  <p>🔥 Fuego vence a 🌿 Planta · 🌿 Planta vence a 💧 Agua · 💧 Agua vence a 🔥 Fuego</p>
+
+  <div class="arena">
+    <div class="lado">
+      <h2>Tú</h2>
+      <img id="imgJugador" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Tu Pokémon" />
+      <p id="nombreJugador">Elige tu Pokémon</p>
+    </div>
+    <div class="lado">
+      <h2>Rival</h2>
+      <img id="imgRival" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pokémon rival" />
+      <p id="nombreRival">Esperando...</p>
+    </div>
+  </div>
+
+  <div id="botones">
+    <button onclick="jugar('Charmander')"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" alt="Charmander" />Charmander 🔥</button>
+    <button onclick="jugar('Squirtle')"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" alt="Squirtle" />Squirtle 💧</button>
+    <button onclick="jugar('Bulbasaur')"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" alt="Bulbasaur" />Bulbasaur 🌿</button>
+  </div>
+
+  <div id="resultado"></div>
+  <div id="marcador">Marcador: Tú 0 — 0 Rival</div>
+  <button class="reiniciar" onclick="reiniciar()">🔄 Reiniciar</button>
+
+  <script>
+    const pokes = {
+      Charmander: { tipo: 'fuego', img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png' },
+      Squirtle:   { tipo: 'agua',   img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png' },
+      Bulbasaur:  { tipo: 'planta', img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png' }
+    };
+
+    const vence = { fuego: 'planta', planta: 'agua', agua: 'fuego' };
+    const nombres = Object.keys(pokes);
+    let jugador = 0, rival = 0;
+
+    function jugar(eleccion) {
+      const yo = pokes[eleccion];
+      const nombreRival = nombres[Math.floor(Math.random() * nombres.length)];
+      const elRival = pokes[nombreRival];
+
+      document.getElementById('imgJugador').src = yo.img;
+      document.getElementById('nombreJugador').textContent = eleccion;
+      document.getElementById('imgRival').src = elRival.img;
+      document.getElementById('nombreRival').textContent = nombreRival;
+
+      let msg = '';
+      if (yo.tipo === elRival.tipo) {
+        msg = '🤝 ¡Empate!';
+      } else if (vence[yo.tipo] === elRival.tipo) {
+        msg = `🎉 ¡Ganaste! ${eleccion} venció a ${nombreRival}.`;
+        jugador++;
+      } else {
+        msg = `💥 ¡Perdiste! ${nombreRival} venció a ${eleccion}.`;
+        rival++;
+      }
+
+      document.getElementById('resultado').textContent = msg;
+      document.getElementById('marcador').textContent = `Marcador: Tú ${jugador} — ${rival} Rival`;
+    }
+
+    function reiniciar() {
+      jugador = 0;
+      rival = 0;
+      document.getElementById('resultado').textContent = '';
+      document.getElementById('marcador').textContent = 'Marcador: Tú 0 — 0 Rival';
+      document.getElementById('nombreJugador').textContent = 'Elige tu Pokémon';
+      document.getElementById('nombreRival').textContent = 'Esperando...';
+      document.getElementById('imgJugador').src = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png';
+      document.getElementById('imgRival').src = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png';
+    }
+  </script>
+</body>
+</html>
