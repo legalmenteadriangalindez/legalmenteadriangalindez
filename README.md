@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 🔴 ¡Bienvenido/a al Repositorio Poké-Dev! ⚪
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="190" alt="Pikachu emocionado" />
 🎮 Centro de Entrenamiento para Autodidactas, Emprendedores e Innovadores 🎮
@@ -34,10 +34,6 @@ Inteligencia Artificial
 Comunidad: aquí todos nos llevamos bien
 
 Pokémon de las Emociones
-
-🎮 Mini-juego: Poké-Duelo
-
-Elige tu Pokémon inicial
 
 Cómo empezar
 
@@ -170,6 +166,68 @@ Transformación	Ditto	<img src="https://raw.githubusercontent.com/PokeAPI/sprite
 Creatividad	Smeargle	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="60" />
 Festejo y logros	Victini	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png" width="60" />
 Futuro y tecnología	Miraidon	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png" width="60" />
-🎮 Mini-juego: Poké-Duelo
-<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="110" alt="Charmander" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="110" alt="Squirtle" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="110" alt="Bulbasaur" /></div>
-Reglas tipo Pokémon: 🔥 Fuego vence a 🌿 Planta · 🌿 Planta vence a 💧 Agua · 💧 Agua vence a 🔥 Fuego.
+🎒 Elige tu Pokémon inicial
+<div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" width="120" alt="Eevee elige" /> </div><details> <summary>🔥 Quiero empezar con Charmander (pasión)</summary><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="120" alt="Charmander" />
+Charmander representa la chispa inicial: las ganas de empezar, de aprender y de no rendirse aunque el camino sea largo.
+
+</details><details> <summary>💧 Quiero empezar con Squirtle (calma y equipo)</summary><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="120" alt="Squirtle" />
+Squirtle representa la calma, la constancia y el trabajo en equipo. Ideal para quienes prefieren avanzar paso a paso, con buena energía.
+
+</details><details> <summary>🌿 Quiero empezar con Bulbasaur (curiosidad)</summary><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="120" alt="Bulbasaur" />
+Bulbasaur representa la curiosidad y el crecimiento orgánico. Aprender, investigar y compartir conocimiento.
+
+</details>
+🚀 Cómo empezar
+bash
+# 1. Clona el repositorio
+git clone https://github.com/tu-usuario/tu-repositorio.git
+
+# 2. Entra a la carpeta
+cd tu-repositorio
+
+# 3. Explora, aprende y crea
+📖 Lee los archivos y guías.
+
+🧪 Prueba los ejemplos.
+
+💬 Abre un issue si tienes dudas.
+
+🌟 Dale una estrella si te gusta el proyecto.
+
+🤝 Cómo contribuir
+<div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" width="120" alt="Lucario contribución" /> </div>
+Haz un fork del repositorio.
+
+Crea una rama: git checkout -b feature/mi-aporte.
+
+Realiza tus cambios con cariño.
+
+Haz commit: git commit -m "feat: agrego mi aporte".
+
+Haz push: git push origin feature/mi-aporte.
+
+Abre un Pull Request.
+
+Todas las contribuciones son bienvenidas: código, documentación, ideas, correcciones o nuevos recursos. 🧡
+
+🗺️ Roadmap
+☑ README bonito con temática Pokémon
+□ Guías de Python desde cero
+□ Proyectos de IA para principiantes
+□ Retos de desarrollo web
+□ Recursos curados de ingeniería y buenas prácticas
+□ Comunidad y Discord
+📜 Licencia y Agradecimientos
+<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png" width="110" alt="Jirachi agradecimiento" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png" width="110" alt="Victini festejo" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" width="120" alt="Snorlax descanso" /></div>
+Este proyecto está bajo la licencia MIT. Úsalo, apréndelo, modifícalo y compártelo.
+
+Gracias a PokeAPI por los sprites oficiales.
+
+Gracias a Pokémon por inspirar tantas aventuras.
+
+Gracias a ti por ser parte de esta Poké-Comunidad.
+
+Recuerda: aquí todos nos llevamos bien, aprendemos juntos y crecemos juntos.
+¡Ahora sal y entrena tus habilidades, Entrenador/a! ⚡🔥💧🌿
+
+<div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="120" alt="Pikachu despedida" /> <br /> <strong>¡Nos vemos en la próxima batalla de código!</strong> </div>
