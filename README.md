@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu" />
 
-<h1>🔴 Poké-Dev ⚪</h1>
+<h1>🔴 Legalmenteadriangalindez ⚪</h1>
 
 <h3>Centro de Entrenamiento para Autodidactas, Emprendedores e Innovadores</h3>
 
