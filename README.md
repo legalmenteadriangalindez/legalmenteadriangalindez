@@ -41,14 +41,6 @@
 
 > *Aquí están capturados todos mis proyectos. ¡Elige uno y explóralo!* ⚡
 
-### 🧭 Índice de secciones
-
-| 🌱 [¿Qué es?](#que-es) | 🔮 [Misión](#mision) | 📚 [Aprender](#aprender) |
-|:--:|:--:|:--:|
-| 🧗 [Filosofía](#filosofia) | 🚀 [Emprender](#emprender) | 🛠️ [Ingeniería & Web](#ingenieria) |
-| 🤖 [IA](#ia) | 🔐 [Seguridad](#seguridad) | 🎮 [Videojuegos](#videojuegos) |
-| 🤝 [Comunidad](#comunidad) | 🎭 [Emociones](#emociones) | 🎒 [Iniciales](#iniciales) |
-| 🚀 [Empezar](#empezar) | 🤝 [Contribuir](#contribuir) | 🗺️ [Roadmap](#roadmap) |
 
 ---
 
