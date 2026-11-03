@@ -37,15 +37,53 @@
 
 ---
 
-## 🧭 Poké-Índice
+## 📕 Pokédex
 
-| 🌱 [¿Qué es?](#que-es) | 🔮 [Misión y Valores](#mision) | 📚 [Qué aprender](#aprender) |
+> *Aquí están capturados todos mis proyectos. ¡Elige uno y explóralo!* ⚡
+
+### 🧭 Índice de secciones
+
+| 🌱 [¿Qué es?](#que-es) | 🔮 [Misión](#mision) | 📚 [Aprender](#aprender) |
 |:--:|:--:|:--:|
 | 🧗 [Filosofía](#filosofia) | 🚀 [Emprender](#emprender) | 🛠️ [Ingeniería & Web](#ingenieria) |
 | 🤖 [IA](#ia) | 🔐 [Seguridad](#seguridad) | 🎮 [Videojuegos](#videojuegos) |
 | 🤝 [Comunidad](#comunidad) | 🎭 [Emociones](#emociones) | 🎒 [Iniciales](#iniciales) |
 | 🚀 [Empezar](#empezar) | 🤝 [Contribuir](#contribuir) | 🗺️ [Roadmap](#roadmap) |
 
+---
+
+### 🏆 Repositorios destacados
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="90" alt="Porygon" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/052.png" width="90" alt="Meowth" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="90" alt="Smeargle" />
+</div>
+
+| # | Pokémon | Repositorio | Tipo | Descripción |
+|:-:|:--:|:--|:--:|:--|
+| 001 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png" width="55" /> **Metagross** | [**ERP**](https://github.com/tu-usuario/ERP) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Desarrollo ERP |
+| 002 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/065.png" width="55" /> **Alakazam** | [**Sistema-pre-ICFES-de-predicción-de-habilidades-y-debilidades-académicas-con-Chatbot**](https://github.com/tu-usuario/Sistema-pre-ICFES-de-prediccion-de-habilidades-y-debilidades-academicas-con-Chatbot) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Predicción de habilidades + Chatbot |
+| 003 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/052.png" width="55" /> **Meowth** | [**E-Commerce-Tienda-Galindez**](https://github.com/tu-usuario/E-Commerce-Tienda-Galindez) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Tienda en línea |
+| 004 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="55" /> **Porygon** | [**MachineLearning**](https://github.com/tu-usuario/MachineLearning) | ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white) | Modelos y experimentos de ML |
+| 005 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="55" /> **Smeargle** | [**LabelStudio**](https://github.com/tu-usuario/LabelStudio) | ![Docker](https://img.shields.io/badge/Docker-384D54?style=flat-square&logo=docker&logoColor=white) | Herramienta de anotación |
+| 006 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png" width="55" /> **Ditto** | [**labelstudio-media**](https://github.com/tu-usuario/labelstudio-media) | 📁 Media | Archivos de prueba para Label Studio |
+
+---
+
+<details>
+<summary><b>🎴 ¿Cómo elegí cada Pokémon? (click para ver)</b></summary>
+
+| Pokémon | ¿Por qué? |
+|:--:|:--|
+| 🧠 **Metagross** | Supercomputadora empresarial → perfecto para un **ERP** |
+| 🥄 **Alakazam** | IQ de 5000, mente analítica → **predicción académica + IA** |
+| 💰 **Meowth** | Su ataque insignia es *Día de Pago* → **e-commerce** |
+| 💻 **Porygon** | Pokémon digital creado por código → **Machine Learning** |
+| 🎨 **Smeargle** | Pinta y marca todo lo que ve → **anotación / etiquetado** |
+| 🔮 **Ditto** | Se transforma en cualquier cosa → **archivos de prueba** |
+
+</details>
 ---
 
 <a name="que-es"></a>
