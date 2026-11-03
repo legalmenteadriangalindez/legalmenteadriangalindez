@@ -4,14 +4,18 @@
 🎮 Centro de Entrenamiento para Autodidactas, Emprendedores e Innovadores 🎮
 https://img.shields.io/badge/Comunidad-100%25_Buenas_Vibras-22C55E?style=for-the-badge&logo=pokemon&logoColor=white
 https://img.shields.io/badge/Camino-Autodidacta_%26_IA-3D7DCA?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Comunidad-Todo_el_Mundo-8B5CF6?style=for-the-badge&logo=googleearth&logoColor=white
 https://img.shields.io/badge/PRs-Bienvenidos-FFCB05?style=for-the-badge&logo=git&logoColor=black
 https://img.shields.io/badge/Licencia-MIT-EF4444?style=for-the-badge
 
 📜 Tarjeta de Presentación del Repositorio
 text
 +-----------------------------------------------------------------------+
-|  Misión: Aprender, Innovar y Emprender con IA & Desarrollo Web        |
+|  Misión: Aprender, Investigar, Innovar y Emprender                    |
+|  Temas: Ingeniería · Programación · IA · Seguridad Informática        |
+|         Videojuegos · Desarrollo Web · Emprendimiento · Innovación    |
 |  Ambiente: Zona Segura / Respeto Mutuo / 100% Colaborativo            |
+|  Comunidad: Gente de todo el mundo que quiere aprender y crecer       |
 |  Nivel de Acceso: Abierto a todos los entrenadores de código          |
 |  Regla de Oro: Aquí todos nos llevamos bien y crecemos juntos         |
 +-----------------------------------------------------------------------+
@@ -21,7 +25,7 @@ text
 
 Misión, Visión y Valores
 
-¿Qué puedes aprender aquí?
+¿Qué puedes aprender e investigar aquí?
 
 Filosofía Autodidacta
 
@@ -30,6 +34,10 @@ Emprendimiento e Innovación
 Ingeniería y Desarrollo Web
 
 Inteligencia Artificial
+
+Seguridad Informática
+
+Videojuegos
 
 Comunidad: aquí todos nos llevamos bien
 
@@ -45,38 +53,50 @@ Licencia y Agradecimientos
 
 🌱 ¿Qué es este repositorio?
 <div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="150" alt="Bulbasaur curioso" /> </div>
-Este es un repositorio de aprendizaje abierto donde cualquier persona puede entrenar sus habilidades de:
+Este es un repositorio de aprendizaje e investigación abierto donde cualquier persona puede entrenar sus habilidades y explorar temas relacionados con:
 
-🧠 Autodidacta: aprender por cuenta propia, con curiosidad y disciplina.
+🛠️ Ingeniería: construir soluciones robustas y bien pensadas.
+
+💻 Programación: lógica, algoritmos y buenas prácticas.
+
+🤖 Inteligencia Artificial: modelos, herramientas y aplicaciones.
+
+🔐 Seguridad Informática: proteger sistemas, datos y personas.
+
+🎮 Videojuegos: diseño, lógica, arte y desarrollo de juegos.
+
+🌐 Desarrollo Web: crear experiencias digitales bonitas y funcionales.
 
 🚀 Emprendimiento: convertir ideas en proyectos reales.
 
 💡 Innovación: probar, fallar, iterar y mejorar.
 
-🤖 Inteligencia Artificial: explorar modelos, herramientas y aplicaciones.
-
-🛠️ Ingeniería: construir soluciones robustas y bien pensadas.
-
-🌐 Desarrollo Web: crear experiencias digitales bonitas y funcionales.
+🧠 Autodidacta: aprender e investigar por cuenta propia, con curiosidad y disciplina.
 
 “El conocimiento es como un Pokémon: mientras más lo entrenas, más evoluciona.” 🧬
+
+Y además, es un espacio para llevarse bien y conocer gente de todo el mundo interesada en aprender, emprender e innovar. Aquí no importa de dónde vengas: si tienes curiosidad y ganas de crecer, este es tu lugar. 🌍
 
 🔮 Misión, Visión y Valores
 <div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="140" alt="Arceus misión" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="140" alt="Rayquaza ambición" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png" width="140" alt="Gardevoir empatía" /></div>
 Elemento	Pokémon	Significado
-Misión	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="70" /> Arceus	Aprender, innovar y emprender con propósito.
+Misión	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="70" /> Arceus	Aprender, investigar, innovar y emprender con propósito.
 Visión	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="70" /> Rayquaza	Llegar alto, sin dejar de ayudar a otros a subir.
 Empatía	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png" width="70" /> Gardevoir	Un espacio seguro donde todos se sientan bienvenidos.
 Disciplina	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" width="70" /> Lucario	Constancia, foco y mejora continua.
 Diversión	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="70" /> Gengar	Aprender también puede ser divertido.
-📚 ¿Qué puedes aprender aquí?
+Comunidad global	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png" width="70" /> Latias	Conectar con personas de todo el mundo que quieren aprender.
+📚 ¿Qué puedes aprender e investigar aquí?
 <div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" width="150" alt="Eevee versatilidad" /> </div>
 Área	Pokémon guía	Qué encontrarás
-Programación	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="60" /> Porygon	Lógica, algoritmos, buenas prácticas.
-Desarrollo Web	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="60" /> Greninja	HTML, CSS, JavaScript, frameworks.
-IA	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="60" /> Mewtwo	Modelos, prompts, automatización.
 Ingeniería	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png" width="60" /> Metagross	Arquitectura, testing, calidad.
+Programación	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="60" /> Porygon	Lógica, algoritmos, buenas prácticas.
+Inteligencia Artificial	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="60" /> Mewtwo	Modelos, prompts, automatización.
+Seguridad Informática	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" width="60" /> Umbreon	Defensa, hacking ético, buenas prácticas.
+Videojuegos	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="60" /> Pikachu	Diseño, lógica, mecánicas y desarrollo de juegos.
+Desarrollo Web	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="60" /> Greninja	HTML, CSS, JavaScript, frameworks.
 Emprendimiento	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png" width="60" /> Dragonite	Ideas, MVP, producto, comunidad.
+Innovación	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png" width="60" /> Rotom	Experimentación, nuevas ideas, cambio.
 Creatividad	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="60" /> Smeargle	Diseño, experimentación, originalidad.
 🧗 Filosofía Autodidacta
 <div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png" width="130" alt="Magikarp perseverancia" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" width="160" alt="Gyarados evolución" /></div>
@@ -84,6 +104,8 @@ Magikarp hoy, Gyarados mañana.
 Nadie empieza siendo experto. La clave es seguir entrenando.
 
 🔁 Aprende, practica, comparte.
+
+🔍 Investiga, pregunta, profundiza.
 
 ❓ Pregunta sin miedo.
 
@@ -129,8 +151,37 @@ Nadie empieza siendo experto. La clave es seguir entrenando.
 
 🚨 Uso responsable y ético de la IA.
 
+🔐 Seguridad Informática
+<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" width="140" alt="Umbreon seguridad" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png" width="140" alt="Zoroark hacking ético" /></div>
+Umbreon vigila de noche, Zoroark domina la ilusión.
+La seguridad es defensa, pero también conocimiento y ética.
+
+🛡️ Fundamentos de seguridad y protección de datos.
+
+🕵️ Hacking ético y análisis de vulnerabilidades.
+
+🔑 Contraseñas, autenticación y buenas prácticas.
+
+🚨 Concienciación y respuesta ante incidentes.
+
+⚖️ Uso responsable y legal del conocimiento.
+
+🎮 Videojuegos
+<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="130" alt="Pikachu videojuegos" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="130" alt="Gengar diversión" /></div>
+🕹️ Diseño de mecánicas y experiencias.
+
+🧩 Lógica de juego y programación.
+
+🎨 Arte, sonido y narrativa.
+
+🧪 Prototipado y testing de juegos.
+
+🚀 Publicar y compartir tus creaciones.
+
 🤝 Comunidad: aquí todos nos llevamos bien
-<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png" width="110" alt="Togepi amistad" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png" width="100" alt="Plusle colaboración" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png" width="100" alt="Minun colaboración" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png" width="110" alt="Togepi amistad" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png" width="100" alt="Plusle colaboración" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png" width="100" alt="Minun colaboración" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png" width="110" alt="Latias comunidad global" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png" width="110" alt="Latios comunidad global" /></div>
+Este es un sitio para llevarse bien y conocer gente de todo el mundo interesada en aprender, emprender e innovar. No importa tu país, tu nivel ni tu experiencia: aquí siempre hay alguien dispuesto a ayudarte y a crecer contigo. 🌍
+
 📜 Reglas de la Poké-Comunidad
 Respeto ante todo. Sin insultos, sin discriminación.
 
@@ -164,6 +215,8 @@ Errores y debug	Psyduck	<img src="https://raw.githubusercontent.com/PokeAPI/spri
 Paciencia	Slowpoke	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png" width="60" />
 Transformación	Ditto	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png" width="60" />
 Creatividad	Smeargle	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="60" />
+Seguridad y vigilancia	Umbreon	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" width="60" />
+Diversión gamer	Pikachu	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="60" />
 Festejo y logros	Victini	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png" width="60" />
 Futuro y tecnología	Miraidon	<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png" width="60" />
 🎒 Elige tu Pokémon inicial
@@ -185,12 +238,16 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 # 2. Entra a la carpeta
 cd tu-repositorio
 
-# 3. Explora, aprende y crea
+# 3. Explora, aprende, investiga y crea
 📖 Lee los archivos y guías.
 
 🧪 Prueba los ejemplos.
 
+🔍 Investiga los temas que más te interesen.
+
 💬 Abre un issue si tienes dudas.
+
+🌍 Conecta con gente de todo el mundo.
 
 🌟 Dale una estrella si te gusta el proyecto.
 
@@ -214,9 +271,11 @@ Todas las contribuciones son bienvenidas: código, documentación, ideas, correc
 ☑ README bonito con temática Pokémon
 □ Guías de Python desde cero
 □ Proyectos de IA para principiantes
+□ Introducción a la seguridad informática
+□ Desarrollo de videojuegos desde cero
 □ Retos de desarrollo web
 □ Recursos curados de ingeniería y buenas prácticas
-□ Comunidad y Discord
+□ Comunidad y Discord global
 📜 Licencia y Agradecimientos
 <div align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png" width="110" alt="Jirachi agradecimiento" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png" width="110" alt="Victini festejo" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" width="120" alt="Snorlax descanso" /></div>
 Este proyecto está bajo la licencia MIT. Úsalo, apréndelo, modifícalo y compártelo.
@@ -225,7 +284,7 @@ Gracias a PokeAPI por los sprites oficiales.
 
 Gracias a Pokémon por inspirar tantas aventuras.
 
-Gracias a ti por ser parte de esta Poké-Comunidad.
+Gracias a ti por ser parte de esta Poké-Comunidad global.
 
 Recuerda: aquí todos nos llevamos bien, aprendemos juntos y crecemos juntos.
 ¡Ahora sal y entrena tus habilidades, Entrenador/a! ⚡🔥💧🌿
