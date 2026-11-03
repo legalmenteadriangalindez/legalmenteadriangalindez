@@ -41,25 +41,24 @@
 
 > *Aquí están capturados todos mis proyectos. ¡Elige uno y explóralo!* ⚡
 
-
 ---
 
 ### 🏆 Repositorios destacados
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="90" alt="Porygon" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png" width="55" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="90" alt="Smeargle" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="80" alt="Porygon animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/meowth.gif" width="72" alt="Meowth animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="80" alt="Smeargle animado" />
 </div>
 
 | # | Pokémon | Repositorio | Tipo | Descripción |
 |:-:|:--:|:--|:--:|:--|
-| 001 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png" width="55" /> **Metagross** | [**ERP**](https://github.com/tu-usuario/ERP) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Desarrollo ERP |
-| 002 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png" width="55" /> **Alakazam** | [**Sistema-pre-ICFES-de-predicción-de-habilidades-y-debilidades-académicas-con-Chatbot**](https://github.com/tu-usuario/Sistema-pre-ICFES-de-prediccion-de-habilidades-y-debilidades-academicas-con-Chatbot) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Predicción de habilidades + Chatbot |
-| 003 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png" width="55" /> **Meowth** | [**E-Commerce-Tienda-Galindez**](https://github.com/tu-usuario/E-Commerce-Tienda-Galindez) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Tienda en línea |
-| 004 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="55" /> **Porygon** | [**MachineLearning**](https://github.com/tu-usuario/MachineLearning) | ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white) | Modelos y experimentos de ML |
-| 005 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="55" /> **Smeargle** | [**LabelStudio**](https://github.com/tu-usuario/LabelStudio) | ![Docker](https://img.shields.io/badge/Docker-384D54?style=flat-square&logo=docker&logoColor=white) | Herramienta de anotación |
-| 006 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png" width="55" /> **Ditto** | [**labelstudio-media**](https://github.com/tu-usuario/labelstudio-media) | 📁 Media | Archivos de prueba para Label Studio |
+| 001 | <img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="56" /> **Metagross** | [**ERP**](https://github.com/tu-usuario/ERP) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Desarrollo ERP |
+| 002 | <img src="https://play.pokemonshowdown.com/sprites/ani/alakazam.gif" width="56" /> **Alakazam** | [**Sistema-pre-ICFES-de-predicción-de-habilidades-y-debilidades-académicas-con-Chatbot**](https://github.com/tu-usuario/Sistema-pre-ICFES-de-prediccion-de-habilidades-y-debilidades-academicas-con-Chatbot) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Predicción de habilidades + Chatbot |
+| 003 | <img src="https://play.pokemonshowdown.com/sprites/ani/meowth.gif" width="56" /> **Meowth** | [**E-Commerce-Tienda-Galindez**](https://github.com/tu-usuario/E-Commerce-Tienda-Galindez) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Tienda en línea |
+| 004 | <img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="56" /> **Porygon** | [**MachineLearning**](https://github.com/tu-usuario/MachineLearning) | ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white) | Modelos y experimentos de ML |
+| 005 | <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="56" /> **Smeargle** | [**LabelStudio**](https://github.com/tu-usuario/LabelStudio) | ![Docker](https://img.shields.io/badge/Docker-384D54?style=flat-square&logo=docker&logoColor=white) | Herramienta de anotación |
+| 006 | <img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" width="56" /> **Ditto** | [**labelstudio-media**](https://github.com/tu-usuario/labelstudio-media) | 📁 Media | Archivos de prueba para Label Studio |
 
 ---
 
@@ -76,13 +75,14 @@
 | 🔮 **Ditto** | Se transforma en cualquier cosa → **archivos de prueba** |
 
 </details>
+
 ---
 
 <a name="que-es"></a>
 ## 🌱 ¿Qué es este repositorio?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="120" alt="Bulbasaur" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="96" alt="Bulbasaur animado" />
 </div>
 
 Un espacio **abierto de aprendizaje e investigación** donde cualquier persona puede entrenar sus habilidades en:
@@ -100,12 +100,12 @@ Y además, un lugar para **llevarse bien** y conocer gente de todo el mundo. Aqu
 
 | | Pokémon | Significado |
 |:--|:--:|:--|
-| 🎯 **Misión** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="60" /> Arceus | Aprender, investigar, innovar y emprender con propósito |
-| 🏔️ **Visión** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="60" /> Rayquaza | Llegar alto, sin dejar de ayudar a otros a subir |
-| 💗 **Empatía** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png" width="60" /> Gardevoir | Un espacio seguro donde todos se sientan bienvenidos |
-| ⚔️ **Disciplina** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" width="60" /> Lucario | Constancia, foco y mejora continua |
-| 😄 **Diversión** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="60" /> Gengar | Aprender también puede ser divertido |
-| 🌍 **Comunidad** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png" width="60" /> Latias | Conectar con personas de todo el mundo |
+| 🎯 **Misión** | <img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" width="56" /> Arceus | Aprender, investigar, innovar y emprender con propósito |
+| 🏔️ **Visión** | <img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" width="56" /> Rayquaza | Llegar alto, sin dejar de ayudar a otros a subir |
+| 💗 **Empatía** | <img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" width="56" /> Gardevoir | Un espacio seguro donde todos se sientan bienvenidos |
+| ⚔️ **Disciplina** | <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="56" /> Lucario | Constancia, foco y mejora continua |
+| 😄 **Diversión** | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="56" /> Gengar | Aprender también puede ser divertido |
+| 🌍 **Comunidad** | <img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" width="56" /> Latias | Conectar con personas de todo el mundo |
 
 ---
 
@@ -113,20 +113,20 @@ Y además, un lugar para **llevarse bien** y conocer gente de todo el mundo. Aqu
 ## 📚 ¿Qué puedes aprender aquí?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" width="120" alt="Eevee" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="96" alt="Eevee animado" />
 </div>
 
 | Área | Pokémon guía | Qué encontrarás |
 |:--|:--:|:--|
-| 🛠️ Ingeniería | Metagross | Arquitectura, testing, calidad |
-| 💻 Programación | Porygon | Lógica, algoritmos, buenas prácticas |
-| 🤖 Inteligencia Artificial | Mewtwo | Modelos, prompts, automatización |
-| 🔐 Seguridad Informática | Umbreon | Defensa, hacking ético, buenas prácticas |
-| 🎮 Videojuegos | Pikachu | Diseño, mecánicas y desarrollo |
-| 🌐 Desarrollo Web | Greninja | HTML, CSS, JS, frameworks |
-| 🚀 Emprendimiento | Dragonite | Ideas, MVP, producto, comunidad |
-| 💡 Innovación | Rotom | Experimentación y nuevas ideas |
-| 🎨 Creatividad | Smeargle | Diseño y originalidad |
+| 🛠️ Ingeniería | <img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="48" /> Metagross | Arquitectura, testing, calidad |
+| 💻 Programación | <img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="48" /> Porygon | Lógica, algoritmos, buenas prácticas |
+| 🤖 Inteligencia Artificial | <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="48" /> Mewtwo | Modelos, prompts, automatización |
+| 🔐 Seguridad Informática | <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="48" /> Umbreon | Defensa, hacking ético, buenas prácticas |
+| 🎮 Videojuegos | <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="48" /> Pikachu | Diseño, mecánicas y desarrollo |
+| 🌐 Desarrollo Web | <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="48" /> Greninja | HTML, CSS, JS, frameworks |
+| 🚀 Emprendimiento | <img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="48" /> Dragonite | Ideas, MVP, producto, comunidad |
+| 💡 Innovación | <img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" width="48" /> Rotom | Experimentación y nuevas ideas |
+| 🎨 Creatividad | <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="48" /> Smeargle | Diseño y originalidad |
 
 ---
 
@@ -134,8 +134,8 @@ Y además, un lugar para **llevarse bien** y conocer gente de todo el mundo. Aqu
 ## 🧗 Filosofía Autodidacta
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png" width="90" alt="Magikarp" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" width="120" alt="Gyarados" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" width="80" alt="Magikarp animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" width="96" alt="Gyarados animado" />
 </div>
 
 > **Magikarp hoy, Gyarados mañana.** Nadie empieza siendo experto: la clave es seguir entrenando.
@@ -187,6 +187,11 @@ Y además, un lugar para **llevarse bien** y conocer gente de todo el mundo. Aqu
 
 > 🕶️ *Umbreon vigila de noche, Zoroark domina la ilusión. La seguridad es defensa, pero también ética.*
 
+<div align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="80" alt="Umbreon animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zoroark.gif" width="80" alt="Zoroark animado" />
+</div>
+
 - 🛡️ Fundamentos y protección de datos
 - 🕵️ Hacking ético y análisis de vulnerabilidades
 - 🔑 Contraseñas y autenticación
@@ -210,11 +215,11 @@ Y además, un lugar para **llevarse bien** y conocer gente de todo el mundo. Aqu
 ## 🤝 Comunidad
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png" width="80" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png" width="80" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png" width="80" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png" width="90" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png" width="90" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif" width="72" alt="Togepi animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/plusle.gif" width="72" alt="Plusle animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/minun.gif" width="72" alt="Minun animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" width="80" alt="Latias animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" width="80" alt="Latios animado" />
 </div>
 
 Un espacio para llevarse bien y conocer gente de todo el mundo interesada en aprender, emprender e innovar. No importa tu país, tu nivel ni tu experiencia: **aquí siempre hay alguien dispuesto a ayudarte**. 🌍
@@ -243,24 +248,24 @@ Un espacio para llevarse bien y conocer gente de todo el mundo interesada en apr
 
 | Emoción | Pokémon |
 |:--|:--|
-| Bienvenida y emoción | Pikachu |
-| Curiosidad y aprendizaje | Bulbasaur |
-| Pasión por empezar | Charmander |
-| Calma y trabajo en equipo | Squirtle |
-| Versatilidad e innovación | Eevee |
-| Poder de la IA | Mewtwo |
-| Disciplina y enfoque | Lucario |
-| Empatía y comunidad | Gardevoir |
-| Descanso y balance | Snorlax |
-| Diversión y humor | Gengar |
-| Perseverancia | Magikarp → Gyarados |
-| Errores y debug | Psyduck |
-| Paciencia | Slowpoke |
-| Transformación | Ditto |
-| Creatividad | Smeargle |
-| Seguridad y vigilancia | Umbreon |
-| Festejo y logros | Victini |
-| Futuro y tecnología | Miraidon |
+| Bienvenida y emoción | <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="40" /> Pikachu |
+| Curiosidad y aprendizaje | <img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="40" /> Bulbasaur |
+| Pasión por empezar | <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="40" /> Charmander |
+| Calma y trabajo en equipo | <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="40" /> Squirtle |
+| Versatilidad e innovación | <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="40" /> Eevee |
+| Poder de la IA | <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="40" /> Mewtwo |
+| Disciplina y enfoque | <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="40" /> Lucario |
+| Empatía y comunidad | <img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" width="40" /> Gardevoir |
+| Descanso y balance | <img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="40" /> Snorlax |
+| Diversión y humor | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="40" /> Gengar |
+| Perseverancia | <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" width="40" /> → <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" width="52" /> Gyarados |
+| Errores y debug | <img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" width="40" /> Psyduck |
+| Paciencia | <img src="https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif" width="40" /> Slowpoke |
+| Transformación | <img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" width="40" /> Ditto |
+| Creatividad | <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="40" /> Smeargle |
+| Seguridad y vigilancia | <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="40" /> Umbreon |
+| Festejo y logros | <img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" width="40" /> Victini |
+| Futuro y tecnología | <img src="https://play.pokemonshowdown.com/sprites/ani/miraidon.gif" width="48" /> Miraidon |
 
 </details>
 
@@ -271,21 +276,27 @@ Un espacio para llevarse bien y conocer gente de todo el mundo interesada en apr
 
 <details>
 <summary>🔥 <b>Charmander</b> — pasión</summary>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="100" alt="Charmander" />
+<div align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="96" alt="Charmander animado" />
+</div>
 
 La chispa inicial: ganas de empezar, de aprender y de no rendirse aunque el camino sea largo.
 </details>
 
 <details>
 <summary>💧 <b>Squirtle</b> — calma y equipo</summary>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="100" alt="Squirtle" />
+<div align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="96" alt="Squirtle animado" />
+</div>
 
 Calma, constancia y trabajo en equipo. Ideal para avanzar paso a paso con buena energía.
 </details>
 
 <details>
 <summary>🌿 <b>Bulbasaur</b> — curiosidad</summary>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="100" alt="Bulbasaur" />
+<div align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="96" alt="Bulbasaur animado" />
+</div>
 
 Curiosidad y crecimiento orgánico: aprender, investigar y compartir conocimiento.
 </details>
