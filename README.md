@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://play.pokemonshowdown.com/sprites/xyani/pikachu.gif" width="120" alt="Pikachu animado" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="96" alt="Pikachu animado" />
 
 <h1>🔴 Legalmenteadriangalindez ⚪</h1>
 
