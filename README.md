@@ -12,6 +12,11 @@
     <a href="#zona-pokemon">Zona Pokémon</a>
   </p>
 </div><a id="proyectos"></a>
+
+<p align="center">
+  <img src="assets/banners/proyectos.svg" width="100%" alt="Banner: Mi Pokédex de proyectos" />
+</p>
+
 Mi Pokédex de proyectos
 No todos mis proyectos están terminados, y eso también es parte del proceso. Estos son algunos de los que he construido o utilizado para experimentar. Cada uno tiene un Pokémon que representa su idea.
 <table>
@@ -76,6 +81,11 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
   <summary><b>¿Por qué estos Pokémon?</b></summary>
   Mega Metagross representa sistemas complejos que trabajan como uno solo; Mega Alakazam, análisis e inteligencia; Meowth, comercio por su clásico Día de Pago; Porygon-Z, el mundo digital; Smeargle, el trabajo de marcar y etiquetar; y Ditto, la versatilidad de los datos de prueba.
 </details><a id="intereses"></a>
+
+<p align="center">
+  <img src="assets/banners/intereses.svg" width="100%" alt="Banner: Lo que me interesa" />
+</p>
+
 Lo que me interesa
 No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver si una idea puede convertirse en algo útil.
 <table>
@@ -109,6 +119,11 @@ Creatividad	<img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif"
 
 
 </details><a id="aprendizaje"></a>
+
+<p align="center">
+  <img src="assets/banners/aprendizaje.svg" width="100%" alt="Banner: Cómo aprendo" />
+</p>
+
 Cómo aprendo
 <div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" height="78" alt="Magikarp animado" />
@@ -118,6 +133,11 @@ Cómo aprendo
 
 Me gusta trabajar con problemas reales, escribir código que pueda entender después y compartir soluciones que puedan servirle a alguien más.
 <a id="comunidad"></a>
+
+<p align="center">
+  <img src="assets/banners/comunidad.svg" width="100%" alt="Banner: Aprender también es compartir" />
+</p>
+
 Aprender también es compartir
 <div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif" height="82" alt="Sylveon animado" />
@@ -132,6 +152,11 @@ Mi regla favorita: compartir lo que sabes sin hacer sentir menos a quien todaví
 - Reconocer el trabajo de los demás.
 - Aprender juntos y también pasarla bien.
 </details><a id="redes-sociales"></a>
+
+<p align="center">
+  <img src="assets/banners/redes-sociales.svg" width="100%" alt="Banner: Mis redes sociales" />
+</p>
+
 Mis redes sociales
 También comparto parte de lo que aprendo fuera de GitHub. Aquí puedes encontrar mis videos, proyectos y experiencias mientras sigo explorando nuevas ideas.
 
@@ -179,6 +204,11 @@ También comparto lo que aprendo y construyo fuera de GitHub.
 </table>
 
 <a id="zona-pokemon"></a>
+
+<p align="center">
+  <img src="assets/banners/zona-pokemon.svg" width="100%" alt="Banner: Zona Pokémon" />
+</p>
+
 Zona Pokémon
 Un pequeño rincón para dejar lo técnico a un lado. Aquí están los otros Pokémon que me gustan para representar ideas, emociones y etapas del aprendizaje.
 <details>
