@@ -1,192 +1,238 @@
-<div align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="88" alt="Porygon animado" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="88" alt="Pikachu animado" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="88" alt="Eevee animado" />Legalmenteadriangalindez
-Aprendo por mi cuenta, construyo proyectos y comparto lo que voy descubriendo.
+<!-- README para un perfil de GitHub. Los Pokémon se muestran como GIF animados. -->
 
-Programación, inteligencia artificial, desarrollo web, videojuegos y emprendimiento. Este es mi pequeño centro de entrenamiento: un lugar para probar ideas, equivocarme, mejorar y seguir aprendiendo.
-<p>
-  <img src="https://img.shields.io/badge/Aprendizaje-constante-3D7DCA?style=flat-square" alt="Aprendizaje constante" />
-  <img src="https://img.shields.io/badge/Proyectos-en%20desarrollo-FFCB05?style=flat-square&labelColor=333333" alt="Proyectos en desarrollo" />
-  <img src="https://img.shields.io/badge/Colaboraci%C3%B3n-bienvenida-22C55E?style=flat-square" alt="Colaboración bienvenida" />
-</p>
-Proyectos · Lo que exploro · Mi forma de aprender · Comunidad · Zona Pokémon
-</div><a name="proyectos"></a>
-📕 Mi Pokédex de proyectos
-Cada proyecto tiene su propio Pokémon. Algunos son aplicaciones, otros son experimentos o herramientas que fui creando mientras aprendía.
+<div align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani-shiny/umbreon.gif" height="130" alt="Umbreon shiny animado, Pokémon principal del perfil" />
+
+  <h1>Legalmenteadriangalindez</h1>
+
+  <p><b>Aprendo construyendo. Comparto lo que descubro.</b></p>
+
+  <p>Me gusta convertir ideas en proyectos: desde aplicaciones web hasta experimentos con inteligencia artificial. Este perfil es mi Pokédex de código, pruebas y cosas que sigo aprendiendo.</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Software-En%20construcci%C3%B3n-385D9A?style=flat-square" alt="Software en construcción" />
+    <img src="https://img.shields.io/badge/Aprendizaje-Continuo-1F9DB8?style=flat-square" alt="Aprendizaje continuo" />
+    <img src="https://img.shields.io/badge/Colaboraciones-Bienvenidas-7D8FA3?style=flat-square" alt="Colaboraciones bienvenidas" />
+  </p>
+
+  <p>
+    <a href="#proyectos">Proyectos</a> ·
+    <a href="#intereses">Lo que me interesa</a> ·
+    <a href="#aprendizaje">Cómo aprendo</a> ·
+    <a href="#comunidad">Comunidad</a> ·
+    <a href="#zona-pokemon">Zona Pokémon</a>
+  </p>
+</div>
+
+---
+
+<a id="proyectos"></a>
+## Mi Pokédex de proyectos
+
+No todos mis proyectos están terminados, y eso también es parte del proceso. Estos son algunos de los que he construido o utilizado para experimentar. Cada uno tiene un Pokémon que representa su idea.
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="76" alt="Metagross animado" /></p>
-      <p align="center"><b>ERP · Metagross</b></p>
-      <p>Un proyecto para explorar el desarrollo de un sistema de gestión empresarial.</p>
-      <p><code>HTML</code> · <a href="https://github.com/Legalmenteadriangalindez/ERP">Ver repositorio</a></p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/metagross-mega.gif" height="94" alt="Mega Metagross animado" />
+      <h3>ERP</h3>
+      <p><sub>MEGA METAGROSS · INGENIERÍA</sub></p>
+      <p>Exploro cómo organizar las piezas de un sistema de gestión empresarial.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/ERP"><b>Explorar código</b></a></p>
     </td>
-    <td width="50%" valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/alakazam.gif" width="76" alt="Alakazam animado" /></p>
-      <p align="center"><b>Pre-ICFES · Alakazam</b></p>
-      <p>Sistema de análisis de habilidades académicas con apoyo de un chatbot.</p>
-      <p><code>Python</code> · <a href="https://github.com/Legalmenteadriangalindez/Sistema-pre-ICFES-de-prediccion-de-habilidades-y-debilidades-academicas-con-Chatbot">Ver repositorio</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/meowth.gif" width="76" alt="Meowth animado" /></p>
-      <p align="center"><b>Tienda Galíndez · Meowth</b></p>
-      <p>Mi proyecto de comercio electrónico, con el que practico desarrollo web aplicado a una tienda real.</p>
-      <p><code>JavaScript</code> · <a href="https://github.com/Legalmenteadriangalindez/E-Commerce-Tienda-Galindez">Ver repositorio</a> · <a href="https://e-commerce-tienda-galindez.onrender.com/">Ver tienda</a></p>
-    </td>
-    <td valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="76" alt="Porygon animado" /></p>
-      <p align="center"><b>Machine Learning · Porygon</b></p>
-      <p>Cuadernos, modelos y experimentos para entender mejor el aprendizaje automático.</p>
-      <p><code>Jupyter</code> · <a href="https://github.com/Legalmenteadriangalindez/MachineLearning">Ver repositorio</a></p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/alakazam-mega.gif" height="94" alt="Mega Alakazam animado" />
+      <h3>Pre-ICFES con chatbot</h3>
+      <p><sub>MEGA ALAKAZAM · EDUCACIÓN + IA</sub></p>
+      <p>Un sistema para trabajar con habilidades académicas, evaluaciones y apoyo conversacional.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/Sistema-pre-ICFES-de-prediccion-de-habilidades-y-debilidades-academicas-con-Chatbot"><b>Explorar código</b></a></p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="76" alt="Smeargle animado" /></p>
-      <p align="center"><b>Label Studio · Smeargle</b></p>
-      <p>Trabajo y pruebas alrededor de la anotación y el etiquetado de datos.</p>
-      <p><code>Docker</code> · <a href="https://github.com/Legalmenteadriangalindez/LabelStudio">Ver repositorio</a></p>
+    <td valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/meowth.gif" height="94" alt="Meowth animado" />
+      <h3>Tienda Galíndez</h3>
+      <p><sub>MEOWTH · E-COMMERCE</sub></p>
+      <p>Mi tienda en línea: un proyecto para llevar el desarrollo web a un caso real.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/E-Commerce-Tienda-Galindez"><b>Código</b></a> · <a href="https://e-commerce-tienda-galindez.onrender.com/"><b>Ver tienda</b></a></p>
     </td>
-    <td valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" width="76" alt="Ditto animado" /></p>
-      <p align="center"><b>LabelStudio Media · Ditto</b></p>
-      <p>Archivos de apoyo que utilizo para hacer pruebas de anotación.</p>
-      <p><code>Recursos</code> · <a href="https://github.com/Legalmenteadriangalindez/labelstudio-media">Ver repositorio</a></p>
+    <td valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/porygon-z.gif" height="94" alt="Porygon-Z animado" />
+      <h3>Machine Learning</h3>
+      <p><sub>PORYGON-Z · DATOS + MODELOS</sub></p>
+      <p>Cuadernos, modelos y pruebas para entender qué funciona y por qué.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/MachineLearning"><b>Explorar código</b></a></p>
     </td>
   </tr>
-</table><details>
-<summary><b>¿Por qué elegí estos Pokémon para mis proyectos?</b></summary>- Metagross: me recuerda a un sistema complejo que conecta muchas partes, como un ERP.
-- Alakazam: inteligencia y análisis, ideal para un proyecto académico con predicción y chatbot.
-- Meowth: por Día de Pago. Era imposible no ponerlo con una tienda.
-- Porygon: nació en el mundo digital; le queda perfecto a Machine Learning.
-- Smeargle: dibuja y marca, igual que en el trabajo de etiquetar información.
-- Ditto: se adapta a todo; representa mis archivos de prueba.
-</details><a name="exploro"></a>
-🧭 Lo que me gusta explorar
-<div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="78" alt="Bulbasaur animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" width="78" alt="Rotom animado" />
-</div>No tengo un solo tema favorito. Me gusta combinar lo técnico con lo creativo y ver qué puede salir de esa mezcla.
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" height="94" alt="Smeargle animado" />
+      <h3>Label Studio</h3>
+      <p><sub>SMEARGLE · ANOTACIÓN DE DATOS</sub></p>
+      <p>Pruebas y herramientas relacionadas con el etiquetado de información.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/LabelStudio"><b>Explorar código</b></a></p>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" height="94" alt="Ditto animado" />
+      <h3>LabelStudio Media</h3>
+      <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
+      <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>¿Por qué estos Pokémon?</b></summary>
+
+  **Mega Metagross** representa sistemas complejos que trabajan como uno solo; **Mega Alakazam**, análisis e inteligencia; **Meowth**, comercio por su clásico *Día de Pago*; **Porygon-Z**, el mundo digital; **Smeargle**, el trabajo de marcar y etiquetar; y **Ditto**, la versatilidad de los datos de prueba.
+</details>
+
+---
+
+<a id="intereses"></a>
+## Lo que me interesa
+
+No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver si una idea puede convertirse en algo útil.
+
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="57" alt="Metagross animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="57" alt="Greninja animado" /></p>
-      <b>Construir</b>
-      <p>Ingeniería de software, programación, arquitectura, pruebas y desarrollo web.</p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="75" alt="Lucario animado" />
+      <h3>Construir</h3>
+      <p>Programación, arquitectura, aplicaciones web y buenas prácticas.</p>
     </td>
-    <td width="33%" valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="57" alt="Mewtwo animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="57" alt="Umbreon animado" /></p>
-      <b>Investigar</b>
-      <p>Inteligencia artificial, aprendizaje automático, automatización y seguridad informática.</p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="75" alt="Mewtwo animado" />
+      <h3>Investigar</h3>
+      <p>Inteligencia artificial, datos, automatización y seguridad.</p>
     </td>
-    <td width="33%" valign="top">
-      <p align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="57" alt="Dragonite animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="57" alt="Smeargle animado" /></p>
-      <b>Crear</b>
-      <p>Videojuegos, diseño, emprendimiento, prototipos e ideas que vale la pena intentar.</p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" height="75" alt="Rotom animado" />
+      <h3>Experimentar</h3>
+      <p>Videojuegos, prototipos, productos digitales e ideas nuevas.</p>
     </td>
   </tr>
-</table><details>
-<summary><b>Mi equipo de aprendizaje por áreas</b></summary>Área	Compañero	Qué practico
-Ingeniería de software	<img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="45" alt="Metagross" />	Arquitectura, calidad y pruebas
-Programación	<img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" width="45" alt="Porygon" />	Lógica, algoritmos y código legible
-Inteligencia artificial	<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="45" alt="Mewtwo" />	Modelos, prompts y automatización
-Seguridad informática	<img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="45" alt="Umbreon" />	Defensa, privacidad y hacking ético
-Videojuegos	<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="45" alt="Pikachu" />	Mecánicas, diseño y prototipos
-Desarrollo web	<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="45" alt="Greninja" />	HTML, CSS, JavaScript y frameworks
-Emprendimiento	<img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="45" alt="Dragonite" />	MVP, productos y aprender del usuario
-Innovación	<img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" width="45" alt="Rotom" />	Experimentar y probar ideas
-Creatividad	<img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="45" alt="Smeargle" />	Diseño y formas diferentes de resolver problemas
+</table>
 
+<details>
+  <summary><b>Ver mis compañeros por área</b></summary>
 
-</details><a name="aprendizaje"></a>
-🌱 Mi forma de aprender
+  | Área | Pokémon | En qué me enfoco |
+  |:--|:--:|:--|
+  | Ingeniería | <img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" height="48" alt="Metagross" /> | Arquitectura, calidad y pruebas |
+  | Programación | <img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" height="48" alt="Porygon" /> | Lógica y desarrollo de software |
+  | IA y datos | <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="48" alt="Mewtwo" /> | Modelos, análisis y automatización |
+  | Seguridad | <img src="https://play.pokemonshowdown.com/sprites/ani-shiny/umbreon.gif" height="48" alt="Umbreon shiny" /> | Privacidad y seguridad informática |
+  | Web | <img src="https://play.pokemonshowdown.com/sprites/ani/greninja-ash.gif" height="48" alt="Greninja Ash" /> | Frontend, backend y experiencia de usuario |
+  | Videojuegos | <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="48" alt="Pikachu" /> | Mecánicas y prototipado |
+  | Emprendimiento | <img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" height="48" alt="Dragonite" /> | Productos y soluciones reales |
+  | Creatividad | <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" height="48" alt="Smeargle" /> | Diseño y experimentación |
+</details>
+
+---
+
+<a id="aprendizaje"></a>
+## Cómo aprendo
+
 <div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" width="78" alt="Magikarp animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" width="100" alt="Gyarados animado" />
-</div>Magikarp hoy, Gyarados mañana.
+  <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" height="78" alt="Magikarp animado" />
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" height="100" alt="Gyarados animado" />
 
-Me gusta aprender haciendo. A veces arranco con algo que apenas entiendo, lo pruebo, lo rompo, busco por qué falló y vuelvo a intentarlo. Así han nacido muchos de mis proyectos.
-- Construyo cosas pequeñas antes de intentar hacerlas grandes.
-- Intento documentar lo que aprendo, incluidos los errores.
-- Me interesa que el software resuelva problemas reales, no solo que se vea bien.
-- Cuando puedo ayudar a alguien con lo que aprendí, lo comparto.
-<details>
-<summary><b>Más cosas que intento practicar</b></summary>Desarrollo e ingeniería: código legible, pruebas, documentación, accesibilidad, rendimiento y revisión constructiva.
+  <p><b>Magikarp hoy, Gyarados mañana.</b></p>
+</div>
 
-Inteligencia artificial: fundamentos de ML, herramientas, APIs, ingeniería de prompts y uso responsable.
+La mayoría de las cosas las entiendo cuando intento hacerlas: programo, me equivoco, reviso qué pasó y vuelvo a probar. No quiero un perfil que solo enseñe proyectos perfectos; también quiero que muestre lo que fui descubriendo por el camino.
 
-Seguridad: protección de datos, autenticación, prevención de riesgos y hacking ético.
+Me gusta trabajar con problemas reales, escribir código que pueda entender después y compartir soluciones que puedan servirle a alguien más.
 
-Videojuegos: mecánicas, lógica, arte, narrativa, prototipado y publicación.
+---
 
-Emprendimiento: encontrar problemas, crear un MVP, escuchar opiniones y mejorar el producto.
+<a id="comunidad"></a>
+## Aprender también es compartir
+
 <div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zoroark.gif" width="72" alt="Zoroark animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="72" alt="Umbreon animado" />
-</div></details>
-<a name="comunidad"></a>
-🤝 La parte más importante: compartir
+  <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif" height="82" alt="Sylveon animado" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif" height="70" alt="Togepi animado" />
+</div>
+
+Me gusta encontrar personas curiosas, intercambiar ideas y aprender de quienes ven los problemas de otra manera. Da igual si alguien está empezando o lleva años programando: siempre hay algo que podemos enseñarnos.
+
+**Mi regla favorita:** compartir lo que sabes sin hacer sentir menos a quien todavía está aprendiendo.
+
+<details>
+  <summary><b>Pequeñas reglas para una buena comunidad</b></summary>
+
+  - Respetar a las personas, incluso cuando pensamos diferente.
+  - Preguntar sin pena y responder sin burlas.
+  - Dar comentarios útiles, no ataques personales.
+  - Reconocer el trabajo de los demás.
+  - Aprender juntos y también pasarla bien.
+</details>
+
+---
+
+<a id="zona-pokemon"></a>
+## Zona Pokémon
+
+Un pequeño rincón para dejar lo técnico a un lado. Aquí están los otros Pokémon que me gustan para representar ideas, emociones y etapas del aprendizaje.
+
+<details>
+  <summary><b>Elige tu Pokémon inicial</b></summary>
+
+  <table>
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" height="80" alt="Charmander animado" />
+        <p><b>Charmander</b></p>
+        <p>La energía para empezar.</p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" height="80" alt="Squirtle animado" />
+        <p><b>Squirtle</b></p>
+        <p>Avanzar con paciencia.</p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" height="80" alt="Bulbasaur animado" />
+        <p><b>Bulbasaur</b></p>
+        <p>Crecer con curiosidad.</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>Mi Pokédex de emociones</b></summary>
+
+  | Momento | Pokémon | Lo que me recuerda |
+  |:--|:--:|:--|
+  | Empezar una idea | <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" height="45" alt="Charmander" /> | Dar el primer paso |
+  | Aprender algo nuevo | <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" height="45" alt="Eevee" /> | Explorar diferentes caminos |
+  | Resolver un error | <img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" height="45" alt="Psyduck" /> | Reírme un poco del bug |
+  | Tener paciencia | <img src="https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif" height="45" alt="Slowpoke" /> | No todo tiene que salir de inmediato |
+  | No rendirme | <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" height="45" alt="Gyarados" /> | La práctica cambia las cosas |
+  | Cuidar al equipo | <img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" height="45" alt="Gardevoir" /> | Empatía y compañerismo |
+  | Encontrar una solución | <img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" height="45" alt="Victini" /> | Celebrar las pequeñas victorias |
+  | Descansar | <img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" height="45" alt="Snorlax" /> | Tomar distancia también ayuda |
+  | Divertirme programando | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="45" alt="Gengar" /> | El humor hace parte del camino |
+  | Mirar hacia adelante | <img src="https://play.pokemonshowdown.com/sprites/ani/miraidon.gif" height="45" alt="Miraidon" /> | Curiosidad por el futuro |
+</details>
+
+<details>
+  <summary><b>Mi equipo de valores</b></summary>
+
+  | Valor | Pokémon |
+  |:--|:--:|
+  | Propósito | <img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" height="46" alt="Arceus animado" /> |
+  | Ambición con los pies en la tierra | <img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="46" alt="Rayquaza animado" /> |
+  | Disciplina | <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="46" alt="Lucario animado" /> |
+  | Conexión y colaboración | <img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" height="46" alt="Latias animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" height="46" alt="Latios animado" /> |
+</details>
+
+---
+
 <div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif" width="63" alt="Togepi animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/plusle.gif" width="63" alt="Plusle animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/minun.gif" width="63" alt="Minun animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" width="70" alt="Latias animado" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" width="70" alt="Latios animado" />
-</div>Para mí, aprender también es conocer personas que tienen otras ideas, experiencias y maneras de resolver problemas. Me gusta la idea de una comunidad donde sea normal preguntar, compartir recursos y colaborar sin importar el nivel de experiencia.
-
-Si alguno de mis proyectos te llama la atención, puedes explorarlo y dejar una sugerencia o abrir un issue en su repositorio.
-<details>
-<summary><b>Las reglas de esta Poké-comunidad</b></summary>1. Tratar a los demás con respeto.
-2. Preguntar sin pena: todos estamos aprendiendo.
-3. Compartir lo que funciona y también lo que no.
-4. Dar opiniones que ayuden a mejorar.
-5. Colaborar sin competir por quién sabe más.
-6. Pasarla bien mientras aprendemos.
-</details><a name="pokemon"></a>
-🎮 Zona Pokémon
-Esta parte es solo por diversión. Los Pokémon también son una forma de darle personalidad a este espacio.
-<details>
-<summary><b>Mi equipo: misión, visión y valores</b></summary>Compañero	Lo que representa
-<img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" width="55" alt="Arceus animado" /> Arceus	Aprender, investigar, innovar y emprender con propósito
-<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" width="55" alt="Rayquaza animado" /> Rayquaza	Seguir creciendo y ayudar a otros a avanzar
-<img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" width="55" alt="Gardevoir animado" /> Gardevoir	Empatía y un ambiente donde todos sean bienvenidos
-<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="55" alt="Lucario animado" /> Lucario	Disciplina y constancia
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="55" alt="Gengar animado" /> Gengar	Humor y diversión
-<img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" width="55" alt="Latias animado" /> Latias	Comunidad y nuevas amistades
-
-
-</details><details>
-<summary><b>Pokémon para cada estado de ánimo</b></summary>Cuando estoy...	Me representa...
-Emocionado por empezar	<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="42" alt="Pikachu" /> Pikachu
-Aprendiendo algo nuevo	<img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="42" alt="Bulbasaur" /> Bulbasaur
-Con ganas de lanzarme a un reto	<img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="42" alt="Charmander" /> Charmander
-Trabajando en equipo	<img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="42" alt="Squirtle" /> Squirtle
-Probando varias ideas	<img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="42" alt="Eevee" /> Eevee
-Investigando sobre IA	<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="42" alt="Mewtwo" /> Mewtwo
-Concentrado	<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="42" alt="Lucario" /> Lucario
-Ayudando a alguien	<img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" width="42" alt="Gardevoir" /> Gardevoir
-Necesitando un descanso	<img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="42" alt="Snorlax" /> Snorlax
-Con ganas de bromear	<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="42" alt="Gengar" /> Gengar
-Intentando algo difícil otra vez	<img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" width="40" alt="Magikarp" /> → <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" width="52" alt="Gyarados" /> Gyarados
-Depurando un error imposible	<img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" width="42" alt="Psyduck" /> Psyduck
-Practicando la paciencia	<img src="https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif" width="42" alt="Slowpoke" /> Slowpoke
-Cambiando de estrategia	<img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" width="42" alt="Ditto" /> Ditto
-Diseñando	<img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" width="42" alt="Smeargle" /> Smeargle
-Pensando en seguridad	<img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="42" alt="Umbreon" /> Umbreon
-Celebrando un avance	<img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" width="42" alt="Victini" /> Victini
-Imaginando el futuro	<img src="https://play.pokemonshowdown.com/sprites/ani/miraidon.gif" width="48" alt="Miraidon" /> Miraidon
-
-
-</details>Elige tu Pokémon inicial
-<details>
-<summary><b>🔥 Charmander — empezar con ganas</b></summary><div align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="90" alt="Charmander animado" /></div>Para quienes tienen mil ideas y quieren comenzar ya, aunque les falte aprender mucho.
-</details><details>
-<summary><b>💧 Squirtle — ir paso a paso</b></summary><div align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="90" alt="Squirtle animado" /></div>
-Para quienes prefieren avanzar con calma, constancia y trabajo en equipo.
-</details><details>
-<summary><b>🌿 Bulbasaur — seguir descubriendo</b></summary><div align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif" width="90" alt="Bulbasaur animado" /></div>
-Para quienes disfrutan preguntar, investigar y descubrir cosas nuevas.
-</details><div align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" width="72" alt="Victini animado" />Gracias por pasar por aquí. Si alguno de mis proyectos te sirve o te inspira a intentar algo, ya valió la pena compartirlo.
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="58" alt="Pikachu animado" />
+  <p><sub>Gracias por pasar por mi Pokédex. Nos vemos en el próximo proyecto.</sub></p>
 </div>
