@@ -77,7 +77,7 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
       <h3>LabelStudio Media</h3>
       <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
       <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
-      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://ebook-traductions-read.onrender.com"><b>ingresar a Ebook Traductions Read</b></a></p></p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p></p>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
   <p><sub>CHATOT · Traducción y lectura de PDF</sub></p>
   <p>Traduce documentos PDF, conserva su formato
      y permite escucharlos mediante lectura en voz alta.</p>
-  <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
+  <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://ebook-traductions-read.onrender.com"><b>ingresar a Ebook Traductions Read</b></a></p>
 </td>
   </tr>
 </table>
