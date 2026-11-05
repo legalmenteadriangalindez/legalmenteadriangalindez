@@ -77,7 +77,7 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
       <h3>LabelStudio Media</h3>
       <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
       <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
-      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://labelstudio-p7tc.onrender.com"><b>ingresar a Label Studio</b></a></p>
     </td>
   </tr>
 </table>
