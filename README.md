@@ -135,7 +135,9 @@ Mi regla favorita: compartir lo que sabes sin hacer sentir menos a quien todaví
 Mis redes sociales
 También comparto parte de lo que aprendo fuera de GitHub. Aquí puedes encontrar mis videos, proyectos y experiencias mientras sigo explorando nuevas ideas.
 
+
 <a id="redes-sociales"></a>
+
 ## Mis redes sociales
 
 También comparto lo que aprendo y construyo fuera de GitHub.
@@ -143,52 +145,38 @@ También comparto lo que aprendo y construyo fuera de GitHub.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/meloetta.gif"
-           height="94" alt="Meloetta animada" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/meloetta.gif" height="94" alt="Meloetta animada" />
       <h3>YouTube</h3>
       <p><sub>MELOETTA · VIDEOS Y APRENDIZAJE</sub></p>
-      <p>Comparto proyectos, experimentos y lo que voy
-         aprendiendo sobre tecnología.</p>
-      <p>
-        <a href="https://www.youtube.com/@legalmenteadriangalindez">
-          <b>Visitar mi canal</b>
-        </a>
-      </p>
+      <p>Comparto proyectos, experimentos y lo que voy aprendiendo sobre tecnología.</p>
+      <p><a href="https://www.youtube.com/@legalmenteadriangalindez"><b>Visitar mi canal</b></a></p>
     </td>
-
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif"
-           height="94" alt="Sylveon animado" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif" height="94" alt="Sylveon animado" />
       <h3>Facebook</h3>
       <p><sub>SYLVEON · COMUNIDAD Y CONEXIONES</sub></p>
-      <p>Un espacio para conectar, compartir ideas
-         y aprender con otras personas.</p>
+      <p>Un espacio para conectar, compartir ideas y aprender con otras personas.</p>
       <p><a href="#"><b>Visitar Facebook</b></a></p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif"
-           height="94" alt="Smeargle animado" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" height="94" alt="Smeargle animado" />
       <h3>Instagram</h3>
       <p><sub>SMEARGLE · CREATIVIDAD Y PROYECTOS</sub></p>
-      <p>Ideas, diseños y momentos del proceso
-         de crear y experimentar.</p>
+      <p>Ideas, diseños y momentos del proceso de crear y experimentar.</p>
       <p><a href="#"><b>Visitar Instagram</b></a></p>
     </td>
-
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/ludicolo.gif"
-           height="94" alt="Ludicolo animado" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/ludicolo.gif" height="94" alt="Ludicolo animado" />
       <h3>TikTok</h3>
       <p><sub>LUDICOLO · CREATIVIDAD Y ENTRETENIMIENTO</sub></p>
-      <p>Contenido corto, curiosidades y experiencias
-         sobre tecnología y aprendizaje.</p>
+      <p>Contenido corto, curiosidades y experiencias sobre tecnología y aprendizaje.</p>
       <p><a href="#"><b>Visitar TikTok</b></a></p>
     </td>
   </tr>
 </table>
+
 <a id="zona-pokemon"></a>
 Zona Pokémon
 Un pequeño rincón para dejar lo técnico a un lado. Aquí están los otros Pokémon que me gustan para representar ideas, emociones y etapas del aprendizaje.
