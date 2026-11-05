@@ -84,8 +84,8 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
     <td valign="top" align="center">
       <img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" height="94" alt="Ditto animado" />
       <h3>LabelStudio Media</h3>
-      <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
-      <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
+      <p><sub>DITTO · traductor de pdf y lectura</sub></p>
+      <p>Proyecto de lectura de pdf y lectura en voz alta.</p>
       <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
     </td>
   </tr>
