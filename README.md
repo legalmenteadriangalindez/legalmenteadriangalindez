@@ -136,6 +136,7 @@ Mis redes sociales
 También comparto parte de lo que aprendo fuera de GitHub. Aquí puedes encontrar mis videos, proyectos y experiencias mientras sigo explorando nuevas ideas.
 
 
+
 <a id="redes-sociales"></a>
 
 ## Mis redes sociales
@@ -152,18 +153,18 @@ También comparto lo que aprendo y construyo fuera de GitHub.
       <p><a href="https://www.youtube.com/@legalmenteadriangalindez"><b>Visitar mi canal</b></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif" height="94" alt="Sylveon animado" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/pachirisu.gif" height="94" alt="Pachirisu animado" />
       <h3>Facebook</h3>
-      <p><sub>SYLVEON · COMUNIDAD Y CONEXIONES</sub></p>
+      <p><sub>PACHIRISU · COMUNIDAD Y CONEXIONES</sub></p>
       <p>Un espacio para conectar, compartir ideas y aprender con otras personas.</p>
       <p><a href="#"><b>Visitar Facebook</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif" height="94" alt="Smeargle animado" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani/vivillon.gif" height="94" alt="Vivillon animado" />
       <h3>Instagram</h3>
-      <p><sub>SMEARGLE · CREATIVIDAD Y PROYECTOS</sub></p>
+      <p><sub>VIVILLON · CREATIVIDAD Y PROYECTOS</sub></p>
       <p>Ideas, diseños y momentos del proceso de crear y experimentar.</p>
       <p><a href="#"><b>Visitar Instagram</b></a></p>
     </td>
