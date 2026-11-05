@@ -1,8 +1,8 @@
 <!-- README para un perfil de GitHub. Los Pokémon se muestran como GIF animados. --><div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani-shiny/umbreon.gif" height="130" alt="Umbreon shiny animado, Pokémon principal del perfil" />  <h1>Legalmenteadriangalindez</h1>  <p><b>Aprendo construyendo. Comparto lo que descubro.</b></p>  <p>Me gusta convertir ideas en proyectos: desde aplicaciones web hasta experimentos con inteligencia artificial. Este perfil es mi Pokédex de código, pruebas y cosas que sigo aprendiendo.</p>  <p>
-    <img src="https://img.shields.io/badge/Software-En%20construcci%C3%B3n-385D9A?style=flat-square" alt="Software en construcción" />
-    <img src="https://img.shields.io/badge/Aprendizaje-Continuo-1F9DB8?style=flat-square" alt="Aprendizaje continuo" />
-    <img src="https://img.shields.io/badge/Colaboraciones-Bienvenidas-7D8FA3?style=flat-square" alt="Colaboraciones bienvenidas" />
+    <img src="https://img.shields.io/badge/Software-En%20construcci%C3%B3n-5C4E92?style=flat-square&amp;labelColor=1B2235" alt="Software en construcción" />
+    <img src="https://img.shields.io/badge/Aprendizaje-Continuo-1E8093?style=flat-square&amp;labelColor=1B2235" alt="Aprendizaje continuo" />
+    <img src="https://img.shields.io/badge/Colaboraciones-Bienvenidas-A37B38?style=flat-square&amp;labelColor=1B2235" alt="Colaboraciones bienvenidas" />
   </p>  <p>
     <a href="#proyectos">Proyectos</a> ·
     <a href="#intereses">Lo que me interesa</a> ·
