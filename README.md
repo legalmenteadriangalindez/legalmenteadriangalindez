@@ -202,27 +202,96 @@ Un pequeño rincón para dejar lo técnico a un lado. Aquí están los otros Pok
     </tr>
   </table>
 </details><details>
-  <summary><b>Mi Pokédex de emociones</b></summary>Momento	Pokémon	Lo que me recuerda
-Empezar una idea	<img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" height="45" alt="Charmander" />	Dar el primer paso
-Aprender algo nuevo	<img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" height="45" alt="Eevee" />	Explorar diferentes caminos
-Resolver un error	<img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" height="45" alt="Psyduck" />	Reírme un poco del bug
-Tener paciencia	<img src="https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif" height="45" alt="Slowpoke" />	No todo tiene que salir de inmediato
-No rendirme	<img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" height="45" alt="Gyarados" />	La práctica cambia las cosas
-Cuidar al equipo	<img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" height="45" alt="Gardevoir" />	Empatía y compañerismo
-Encontrar una solución	<img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" height="45" alt="Victini" />	Celebrar las pequeñas victorias
-Descansar	<img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" height="45" alt="Snorlax" />	Tomar distancia también ayuda
-Divertirme programando	<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="45" alt="Gengar" />	El humor hace parte del camino
-Mirar hacia adelante	<img src="https://play.pokemonshowdown.com/sprites/ani/miraidon.gif" height="45" alt="Miraidon" />	Curiosidad por el futuro
-
-
+  <summary><b>Mi Pokédex de emociones</b></summary>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Momento</th>
+        <th align="center">Pokémon</th>
+        <th align="center">Lo que me recuerda</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">Empezar una idea</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" height="45" alt="Charmander" /></td>
+        <td align="center">Dar el primer paso</td>
+      </tr>
+      <tr>
+        <td align="center">Aprender algo nuevo</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" height="45" alt="Eevee" /></td>
+        <td align="center">Explorar diferentes caminos</td>
+      </tr>
+      <tr>
+        <td align="center">Resolver un error</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" height="45" alt="Psyduck" /></td>
+        <td align="center">Reírme un poco del bug</td>
+      </tr>
+      <tr>
+        <td align="center">Tener paciencia</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif" height="45" alt="Slowpoke" /></td>
+        <td align="center">No todo tiene que salir de inmediato</td>
+      </tr>
+      <tr>
+        <td align="center">No rendirme</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" height="45" alt="Gyarados" /></td>
+        <td align="center">La práctica cambia las cosas</td>
+      </tr>
+      <tr>
+        <td align="center">Cuidar al equipo</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif" height="45" alt="Gardevoir" /></td>
+        <td align="center">Empatía y compañerismo</td>
+      </tr>
+      <tr>
+        <td align="center">Encontrar una solución</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" height="45" alt="Victini" /></td>
+        <td align="center">Celebrar las pequeñas victorias</td>
+      </tr>
+      <tr>
+        <td align="center">Descansar</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" height="45" alt="Snorlax" /></td>
+        <td align="center">Tomar distancia también ayuda</td>
+      </tr>
+      <tr>
+        <td align="center">Divertirme programando</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="45" alt="Gengar" /></td>
+        <td align="center">El humor hace parte del camino</td>
+      </tr>
+      <tr>
+        <td align="center">Mirar hacia adelante</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/miraidon.gif" height="45" alt="Miraidon" /></td>
+        <td align="center">Curiosidad por el futuro</td>
+      </tr>
+    </tbody>
+  </table>
 </details><details>
-  <summary><b>Mi equipo de valores</b></summary>Valor	Pokémon
-Propósito	<img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" height="46" alt="Arceus animado" />
-Ambición con los pies en la tierra	<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="46" alt="Rayquaza animado" />
-Disciplina	<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="46" alt="Lucario animado" />
-Conexión y colaboración	<img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" height="46" alt="Latias animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" height="46" alt="Latios animado" />
-
-
+  <summary><b>Mi equipo de valores</b></summary>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Valor</th>
+        <th align="center">Pokémon</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">Propósito</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" height="46" alt="Arceus animado" /></td>
+      </tr>
+      <tr>
+        <td align="center">Ambición con los pies en la tierra</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="46" alt="Rayquaza animado" /></td>
+      </tr>
+      <tr>
+        <td align="center">Disciplina</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="46" alt="Lucario animado" /></td>
+      </tr>
+      <tr>
+        <td align="center">Conexión y colaboración</td>
+        <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" height="46" alt="Latias animado" /> <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" height="46" alt="Latios animado" /></td>
+      </tr>
+    </tbody>
+  </table>
 </details><div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="58" alt="Pikachu animado" />
   <p><sub>Gracias por pasar por mi Pokédex. Nos vemos en el próximo proyecto.</sub></p>
