@@ -70,14 +70,14 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
       <h3>Label Studio</h3>
       <p><sub>SMEARGLE · ANOTACIÓN DE DATOS</sub></p>
       <p>Pruebas y herramientas relacionadas con el etiquetado de información.</p>
-      <p><a href="https://github.com/Legalmenteadriangalindez/LabelStudio"><b>Explorar código</b></a></p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/LabelStudio"><b>Explorar código</b></a> · <a href="https://labelstudio-p7tc.onrender.com"><b>ingresar a Label Studio</b></a></p>
     </td>
     <td valign="top" align="center">
       <img src="https://play.pokemonshowdown.com/sprites/ani/ditto.gif" height="94" alt="Ditto animado" />
       <h3>LabelStudio Media</h3>
       <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
       <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
-      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://labelstudio-p7tc.onrender.com"><b>ingresar a Label Studio</b></a></p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
     </td>
   </tr>
 </table>
