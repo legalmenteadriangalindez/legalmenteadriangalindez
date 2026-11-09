@@ -86,6 +86,25 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
   <p><a href="https://github.com/legalmenteadriangalindez/LupaIA"><b>Explorar archivos</b></a>· <a href="#"><b>ingresar a LupaAI</b></a></p>
 </td>
   </tr>
+
+  <tr>
+  <td valign="top" align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/chatot.gif" height="94" alt="Chatot animado"/>
+  <h3>Video Juegos</h3>
+  <p><sub>Videojuegos </sub></p>
+  <p>Videojuegos TPS FPS  </p>
+  <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://ebook-traductions-read.onrender.com"><b>ingresar a Ebook Traductions Read</b></a></p>
+</td>
+  <td valign="top" align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/noctowl.gif" height="94" alt="Noctowl animado" />
+  <h3>LupaAI</h3>
+  <p><sub>CHATOT · Traducción y lectura de PDF</sub></p>
+  <p>Traduce documentos PDF, conserva su formato
+     y permite escucharlos mediante lectura en voz alta.</p>
+  <p><a href="https://github.com/legalmenteadriangalindez/LupaIA"><b>Explorar archivos</b></a>· <a href="#"><b>ingresar a LupaAI</b></a></p>
+</td>
+  </tr>
+
 </table><details>
   <summary><b>¿Por qué estos Pokémon?</b></summary>
   Mega Metagross representa sistemas complejos que trabajan como uno solo; Mega Alakazam, análisis e inteligencia; Meowth, comercio por su clásico Día de Pago; Porygon-Z, el mundo digital; Smeargle, el trabajo de marcar y etiquetar; y Ditto, la versatilidad de los datos de prueba.
@@ -210,6 +229,7 @@ También comparto lo que aprendo y construyo fuera de GitHub.
       <p><a href="#"><b>Visitar TikTok</b></a></p>
     </td>
   </tr>
+
 </table>
 
 <a id="zona-pokemon"></a>
