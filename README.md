@@ -88,12 +88,14 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
   </tr>
 
   <tr>
-  <td valign="top" align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/chatot.gif" height="94" alt="Chatot animado"/>
-  <h3>Video Juegos</h3>
-  <p><sub>Videojuegos </sub></p>
-  <p>Videojuegos TPS FPS  </p>
-  <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a>· <a href="https://ebook-traductions-read.onrender.com"><b>ingresar a Ebook Traductions Read</b></a></p>
+<td valign="top" align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/inteleon.gif" height="94" alt="Inteleon animado" />
+  <h3>Videojuegos</h3>
+  <p><sub>INTELEON · SHOOTERS FPS / TPS</sub></p>
+  <p>Desarrollo de videojuegos de disparos en primera
+     y tercera persona, con mecánicas de combate,
+     precisión y acción.</p>
+  <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a> · <a href="https://legalmenteadriangalindez.itch.io"><b>Ingresar a Itch.io</b></a></p>
 </td>
   <td valign="top" align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/noctowl.gif" height="94" alt="Noctowl animado" />
