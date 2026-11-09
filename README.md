@@ -96,15 +96,17 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
      y tercera persona, con mecánicas de combate,
      precisión y acción.</p>
   <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a> · <a href="https://legalmenteadriangalindez.itch.io"><b>Ingresar a Itch.io</b></a></p>
+
+<td valign="top" align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/uxie.gif" height="94" alt="Uxie animado" />
+  <h3>Investigaciones</h3>
+  <p><sub>UXIE · INVESTIGACIÓN Y CONOCIMIENTO</sub></p>
+  <p>Exploro investigaciones en inteligencia artificial,
+     ciencia de datos, ingeniería de software y nuevas
+     tecnologías, compartiendo hallazgos y aprendizajes.</p>
+  <p><a href="https://github.com/legalmenteadriangalindez?tab=repositories"><b>Explorar investigaciones</b></a> · <a href="#"><b>Ver publicaciones</b></a></p>
 </td>
-  <td valign="top" align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/noctowl.gif" height="94" alt="Noctowl animado" />
-  <h3>LupaAI</h3>
-  <p><sub>CHATOT · Traducción y lectura de PDF</sub></p>
-  <p>Traduce documentos PDF, conserva su formato
-     y permite escucharlos mediante lectura en voz alta.</p>
-  <p><a href="https://github.com/legalmenteadriangalindez/LupaIA"><b>Explorar archivos</b></a>· <a href="#"><b>ingresar a LupaAI</b></a></p>
-</td>
+
   </tr>
 
 </table><details>
