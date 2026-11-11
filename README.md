@@ -171,8 +171,13 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
     <p>Prototipo de gestión de dispositivos financiados,
        con seguimiento de pagos y simulación de bloqueo
        y desbloqueo autorizados.</p>
-    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
-    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+    <p><sub>🚧 PRÓXIMAMENTE · ACCESO PRIVADO</sub></p>
+    <details>
+      <summary><b>🔒 Solicitar información o colaboración</b></summary>
+      <p>Este proyecto está planificado con código fuente privado y no estará disponible públicamente.</p>
+      <p>Si deseas conocer más, proponer una colaboración o solicitar acceso, puedes escribirme por correo.</p>
+      <p><a href="mailto:legalmenteadriangalindez@gmail.com?subject=Device%20Financing%20Lock%20-%20Solicitud%20de%20informaci%C3%B3n%20o%20colaboraci%C3%B3n&amp;body=Hola%2C%20me%20interesa%20conocer%20m%C3%A1s%20sobre%20Device%20Financing%20Lock.%0A%0ANombre%3A%20%0AMotivo%20de%20contacto%20%28informaci%C3%B3n%20/%20colaboraci%C3%B3n%20/%20acceso%29%3A%20%0A%0AGracias."><b>✉️ Enviar solicitud por correo</b></a></p>
+    </details>
   </td>
   <td width="50%" valign="top" align="center">
     <img src="https://play.pokemonshowdown.com/sprites/ani/luxray.gif" height="94" alt="Luxray animado" />
