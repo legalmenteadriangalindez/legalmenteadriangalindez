@@ -138,7 +138,9 @@ No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver
       <p>Videojuegos, prototipos, productos digitales e ideas nuevas.</p>
     </td>
   </tr>
-  
+
+===
+
 <!-- PRÓXIMOS PROYECTOS -->
 <tr>
   <td colspan="2" align="center">
@@ -192,6 +194,8 @@ No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver
     <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
   </td>
 </tr>
+
+===
 
 </table><details>
   <summary><b>Ver mis compañeros por área</b></summary>Área	Pokémon	En qué me enfoco
