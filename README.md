@@ -246,7 +246,7 @@ Creatividad	<img src="https://play.pokemonshowdown.com/sprites/ani/smeargle.gif"
 Cómo aprendo
 <div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/magikarp.gif" height="78" alt="Magikarp animado" />
-  &nbsp;&nbsp;→&nbsp;&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/-%E2%9E%9C-6B5CA5?style=for-the-badge" height="38" alt="Evolución" />&nbsp;
   <img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" height="100" alt="Gyarados animado" />  <p><b>Magikarp hoy, Gyarados mañana.</b></p>
 </div>La mayoría de las cosas las entiendo cuando intento hacerlas: programo, me equivoco, reviso qué pasó y vuelvo a probar. No quiero un perfil que solo enseñe proyectos perfectos; también quiero que muestre lo que fui descubriendo por el camino.
 
