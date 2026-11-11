@@ -112,8 +112,8 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
 
 <!-- PRÓXIMOS PROYECTOS -->
 <tr>
-  <td colspan="2" align="center">
-    <h3>🚀 Próximos proyectos</h3>
+  <td colspan="2" align="center">   
+<h3><img src="https://play.pokemonshowdown.com/sprites/ani/celebi.gif" height="38" alt="Celebi animado" />Próximos proyectos</h3>
     <p><sub>IDEAS EN PLANIFICACIÓN · PRÓXIMAMENTE</sub></p>
     <p>Arquitecturas y tecnologías que quiero explorar
        mediante proyectos funcionales.</p>
