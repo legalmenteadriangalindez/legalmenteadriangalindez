@@ -65,7 +65,7 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
       <h3>LabelStudio Media</h3>
       <p><sub>DITTO · RECURSOS DE PRUEBA</sub></p>
       <p>Archivos de apoyo para probar y adaptar flujos de anotación.</p>
-      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p></p>
+      <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a></p>
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
      y tercera persona, con mecánicas de combate,
      precisión y acción.</p>
   <p><a href="https://github.com/Legalmenteadriangalindez/labelstudio-media"><b>Explorar archivos</b></a> · <a href="https://legalmenteadriangalindez.itch.io"><b>Ingresar a Itch.io</b></a></p>
-
+</td>
 <td valign="top" align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/uxie.gif" height="94" alt="Uxie animado" />
   <h3>Investigaciones</h3>
@@ -109,37 +109,6 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
 
   </tr>
 
-</table><details>
-  <summary><b>¿Por qué estos Pokémon?</b></summary>
-  Mega Metagross representa sistemas complejos que trabajan como uno solo; Mega Alakazam, análisis e inteligencia; Meowth, comercio por su clásico Día de Pago; Porygon-Z, el mundo digital; Smeargle, el trabajo de marcar y etiquetar; y Ditto, la versatilidad de los datos de prueba.
-</details><a id="intereses"></a>
-
-<p align="center">
-  <img src="assets/banners/intereses.svg" width="100%" alt="Banner: Lo que me interesa" />
-</p>
-
-Lo que me interesa
-No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver si una idea puede convertirse en algo útil.
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="75" alt="Lucario animado" />
-      <h3>Construir</h3>
-      <p>Programación, arquitectura, aplicaciones web y buenas prácticas.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="75" alt="Mewtwo animado" />
-      <h3>Investigar</h3>
-      <p>Inteligencia artificial, datos, automatización y seguridad.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" height="75" alt="Rotom animado" />
-      <h3>Experimentar</h3>
-      <p>Videojuegos, prototipos, productos digitales e ideas nuevas.</p>
-    </td>
-  </tr>
-
-===
 
 <!-- PRÓXIMOS PROYECTOS -->
 <tr>
@@ -195,9 +164,42 @@ No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver
   </td>
 </tr>
 
-===
+</table>
 
-</table><details>
+<details>
+  <summary><b>¿Por qué estos Pokémon?</b></summary>
+  Mega Metagross representa sistemas complejos que trabajan como uno solo; Mega Alakazam, análisis e inteligencia; Meowth, comercio por su clásico Día de Pago; Porygon-Z, el mundo digital; Smeargle, el trabajo de marcar y etiquetar; y Ditto, la versatilidad de los datos de prueba.
+</details><a id="intereses"></a>
+
+<p align="center">
+  <img src="assets/banners/intereses.svg" width="100%" alt="Banner: Lo que me interesa" />
+</p>
+
+Lo que me interesa
+No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver si una idea puede convertirse en algo útil.
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="75" alt="Lucario animado" />
+      <h3>Construir</h3>
+      <p>Programación, arquitectura, aplicaciones web y buenas prácticas.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="75" alt="Mewtwo animado" />
+      <h3>Investigar</h3>
+      <p>Inteligencia artificial, datos, automatización y seguridad.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/rotom.gif" height="75" alt="Rotom animado" />
+      <h3>Experimentar</h3>
+      <p>Videojuegos, prototipos, productos digitales e ideas nuevas.</p>
+    </td>
+  </tr>
+
+
+</table>
+
+<details>
   <summary><b>Ver mis compañeros por área</b></summary>Área	Pokémon	En qué me enfoco
 Ingeniería	<img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" height="48" alt="Metagross" />	Arquitectura, calidad y pruebas
 Programación	<img src="https://play.pokemonshowdown.com/sprites/ani/porygon.gif" height="48" alt="Porygon" />	Lógica y desarrollo de software
