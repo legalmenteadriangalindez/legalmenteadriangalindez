@@ -163,7 +163,28 @@ No todos mis proyectos están terminados, y eso también es parte del proceso. E
     <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
   </td>
 </tr>
-
+<tr>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/klefki.gif" height="94" alt="Klefki animado" />
+    <h3>Device Financing Lock</h3>
+    <p><sub>KLEFKI · SEGURIDAD + FINANCIACIÓN</sub></p>
+    <p>Prototipo de gestión de dispositivos financiados,
+       con seguimiento de pagos y simulación de bloqueo
+       y desbloqueo autorizados.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/luxray.gif" height="94" alt="Luxray animado" />
+    <h3>AuditQuest: Inside the System</h3>
+    <p><sub>LUXRAY · VIDEOJUEGO + AUDITORÍA DE SISTEMAS</sub></p>
+    <p>Videojuego educativo para explorar sistemas,
+       identificar riesgos, revisar controles y resolver
+       misiones de auditoría mediante desafíos interactivos.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+</tr>
 </table>
 
 <details>
