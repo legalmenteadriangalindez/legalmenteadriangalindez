@@ -138,6 +138,61 @@ No me gusta quedarme en una sola tecnología. Prefiero unir lo que aprendo y ver
       <p>Videojuegos, prototipos, productos digitales e ideas nuevas.</p>
     </td>
   </tr>
+  
+<!-- PRÓXIMOS PROYECTOS -->
+<tr>
+  <td colspan="2" align="center">
+    <h3>🚀 Próximos proyectos</h3>
+    <p><sub>IDEAS EN PLANIFICACIÓN · PRÓXIMAMENTE</sub></p>
+    <p>Arquitecturas y tecnologías que quiero explorar
+       mediante proyectos funcionales.</p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/zygarde.gif" height="94" alt="Zygarde animado" />
+    <h3>SaaS Multi-Tenant</h3>
+    <p><sub>ZYGARDE · MICRO-FRONTENDS + EDGE</sub></p>
+    <p>Plataforma SaaS con múltiples tiendas,
+       módulos independientes, arquitectura
+       distribuida y aislamiento de datos.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/genesect.gif" height="94" alt="Genesect animado" />
+    <h3>WebAssembly Lab</h3>
+    <p><sub>GENESECT · RUST + WASM</sub></p>
+    <p>Aplicación web de procesamiento de imágenes
+       y cálculos de alto rendimiento, comparando
+       la ejecución de Rust WebAssembly y JavaScript.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/magearna.gif" height="94" alt="Magearna animada" />
+    <h3>Agentes IA + RAG</h3>
+    <p><sub>MAGEARNA · IA GENERATIVA + AUTOMATIZACIÓN</sub></p>
+    <p>Plataforma inteligente para consultar
+       documentos mediante búsqueda vectorial
+       y ejecutar tareas con agentes de IA.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/jolteon.gif" height="94" alt="Jolteon animado" />
+    <h3>Real-Time Analytics</h3>
+    <p><sub>JOLTEON · EVENTOS + STREAMING</sub></p>
+    <p>Dashboard de monitoreo en tiempo real
+       con eventos simulados, mensajería,
+       WebSockets y gráficas dinámicas.</p>
+    <p><sub>🚧 PRÓXIMAMENTE</sub></p>
+    <p><a href="#"><b>Explorar código</b></a> · <a href="#"><b>Ver demo</b></a></p>
+  </td>
+</tr>
+
 </table><details>
   <summary><b>Ver mis compañeros por área</b></summary>Área	Pokémon	En qué me enfoco
 Ingeniería	<img src="https://play.pokemonshowdown.com/sprites/ani/metagross.gif" height="48" alt="Metagross" />	Arquitectura, calidad y pruebas
